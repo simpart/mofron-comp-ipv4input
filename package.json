@@ -1,0 +1,26 @@
+{
+  "name": "mofron-comp-ipv4input",
+  "version": "0.0.1",
+  "description": "input mofron component for ip address v4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mofron-layout-horizon" : "",
+    "mofron-layout-margin" : ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-ipv4input.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-ipv4input/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-ipv4input#readme"
+}
